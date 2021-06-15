@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Mansoor's Personal Blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Hey! Im glad your here! My name is Mansoor Poonawala, and this is my personal blog.
